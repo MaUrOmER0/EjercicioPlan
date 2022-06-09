@@ -44,7 +44,7 @@ public class VentanaPrincipal extends JFrame
         add(miPanelResultado);
         
         //Caracteristicas de la ventana
-        setTitle("Mayor de 2 números");
+        setTitle("Plan Telefonia");
         setSize(500,430);
         //setLocation(10,10);
         setLocationRelativeTo(null);
